@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "三日月ステップ (Cover)",
+  "base_artist": "dongdang",
+  "createdAt": "2025-12-11T22:17:20.490871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三日月ステップ - 2023",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/01_三日月ステップ_-_2023_r-906.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "三日月ステップ",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/02_三日月ステップ_r-906.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "三日月ステップ 2023",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/03_三日月ステップ_2023_r-906.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "三日月ステップ 2023 / r-906 feat. 初音ミク",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/04_三日月ステップ_2023___r-906_feat._初音ミク_r-906.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "三日月ステップ(ごめ言えremix)",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/05_三日月ステップ(ごめ言えremix)_r-906.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "三日月ステップ(ごめ言えremix)",
+      "artist": "r‐906",
+      "has_synced": true,
+      "path": "select/06_三日月ステップ(ごめ言えremix)_r‐906.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三日月ステップ (Cover)",
+      "artist": "dongdang",
+      "has_synced": false,
+      "path": "select/pl_01_三日月ステップ_(Cover)_dongdang.txt"
+    }
+  ]
+}
